@@ -18,7 +18,7 @@ Includes heavily commented/explained code for:
 
 * https://github.com/lyrasis/kiba-extend-project/blob/main/lib/ke_project.rb[configuring your project]
 * https://github.com/lyrasis/kiba-extend-project/blob/main/lib/ke_project/registry_data.rb[registering your project's jobs/files]
-* https://github.com/lyrasis/kiba-extend-project/blob/main/lib/ke_project/target_system/locations.rb[defining the jobs]
+* https://github.com/lyrasis/kiba-extend-project/blob/main/lib/ke_project/jobs/locations/to_json.rb[defining the jobs]
 * project-specific kiba transforms
 ** https://github.com/lyrasis/kiba-extend-project/blob/main/lib/ke_project/transforms/locations/loc_name_reverser.rb[defining]
 ** https://github.com/lyrasis/kiba-extend-project/blob/main/spec/ke_project/transforms/locations/loc_name_reverser_spec.rb[testing]
